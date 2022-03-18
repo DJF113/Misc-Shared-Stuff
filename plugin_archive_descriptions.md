@@ -22,6 +22,18 @@ Adds the M2 Browning as a ship outfit and H2H.
 
 Complete and playable on 0.9.15 Continuous.
 
+## A Galaxy Far Far Away
+
+![agffa](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/A%20Galaxy%20Far%20Far%20Away/icon.png)
+
+**Created by Ember369**
+
+A mod designed to replicate Star Wars in Endless Sky.
+
+**Status**
+
+Unfinished but playable.
+
 ## Core Mining, Inc.
 
 ![Core Mining, Inc.](https://raw.githubusercontent.com/DJF113/Core-Mining-Inc/main/icon.png)
