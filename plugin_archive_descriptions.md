@@ -8,7 +8,7 @@ Warhammer 40k mod for Endless Sky. Adds ships, outfits, missions and systems to 
 
 **Status**
 
-In development and playable. 0.9.15 Continuous.
+In development and playable on 0.9.15 Continuous.
 
 ## 50 Cal
 
@@ -20,7 +20,7 @@ Adds the M2 Browning as a ship outfit and H2H.
 
 **Status**
 
-Complete and playable. 0.9.15 Continuous.
+Complete and playable on 0.9.15 Continuous.
 
 ## Core Mining, Inc.
 
@@ -32,7 +32,7 @@ This is an alternate story for Endless Sky that gives you the chance to work for
 
 **Status**
 
-In development and playable. 0.9.15 Continuous.
+In development and playable on 0.9.15 Continuous.
 
 ## Twin Argosy
 
@@ -46,7 +46,7 @@ Adds a new ship created by joining two Argosies together.
 
 **Status**
 
-Complete and playable. 0.9.15 Continuous.
+Complete and playable on 0.9.15 Continuous.
 
 **Potential Fixes or Improvements**
 
